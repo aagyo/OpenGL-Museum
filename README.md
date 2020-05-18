@@ -1,29 +1,29 @@
-# README #
+# OpenGL virtual museum
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Details
 
-### What is this repository for? ###
+The project is not entirely my work.It was a team project, but I coordinated it and consists of 60% of what I did.(coded)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Description
 
-### How do I get set up? ###
+A museum room that contains three areas with exhibits. It's a first person point of view, so you can walk and watch at what is exposed.
+All the objects have a collision block.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+The start view:
+![Start](/readme_images/front.png)
 
-### Contribution guidelines ###
+The desert zone:
 
-* Writing tests
-* Code review
-* Other guidelines
+![Desert](/readme_images/desert.png)
 
-### Who do I talk to? ###
+The forest zone:
 
-* Repo owner or admin
-* Other community or team contact
+![Forest](/readme_images/tundra.png)
+
+The ocean zone:
+
+![Login2](/readme_images/aquarium.png)
+
+
+
+
